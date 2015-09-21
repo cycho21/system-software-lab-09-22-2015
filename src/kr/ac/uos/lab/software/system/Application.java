@@ -2,7 +2,7 @@ package kr.ac.uos.lab.software.system;
 
 /**
  * @author Chan Yeon, Cho
- * @link http://github.com/lovebube
+ * @link http://gitlab.com/lovebube
  * @since 2015-09-21
  */
 
